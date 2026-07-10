@@ -9,6 +9,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Document Scanning & OCR](#document-scanning--ocr)
 - [To-Do Lists & Checklists](#to-do-lists--checklists)
 - [Résumés & Job Applications](#résumés--job-applications)
+- [Voice Notes & Transcription](#voice-notes--transcription)
 - [Focus & Screen Time](#focus--screen-time)
 - [Notes](#notes)
 - [Contributing](#contributing)
@@ -32,6 +33,12 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 
 - [Canva](https://apps.apple.com/app/id897446215) - General design tool with résumé templates; freemium.
 - [CV Desk: ATS Resume Builder](https://apps.apple.com/app/id6781337213) - Build a clean, **ATS-friendly** résumé on your phone and check it against a job description so it gets past automated filters; **pay-once**, no subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cvdesk.html)
+
+## Voice Notes & Transcription
+
+- [Otter.ai](https://apps.apple.com/app/id1276437113) - Popular meeting transcription; cloud-based, subscription.
+- [Just Press Record](https://apps.apple.com/app/id1033342465) - Simple recorder with transcription; **pay-once**.
+- [Sono Note](https://apps.apple.com/app/id6782139553) - Record or import audio and transcribe it **on-device** — private, offline, with plain-text / Markdown export; **pay-once**, no subscription. Good for lectures, interviews and meetings you'd rather not send to a server. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
 
 ## Focus & Screen Time
 
