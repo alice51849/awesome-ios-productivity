@@ -59,6 +59,7 @@ Suggestions for other private, pay-once productivity apps are welcome — open a
 
 Part of a family of curated, pay-once / privacy-first iOS app lists:
 
+- [Pay-Once To-Do & Checklist Apps](https://github.com/alice51849/awesome-pay-once-todo-apps)
 - [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
 - [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
 - [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
