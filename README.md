@@ -45,6 +45,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-platform blocker; subscription.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus; subscription.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker built on Apple's Screen Time API; on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-productivity) - Screen-time detox app with on-device blocking, focus rules, and a daily streak. Free to download; premium via subscription. · [disclosure](https://shantj.github.io/sproutguard/): written by its developer.
 
 ## Notes
 
