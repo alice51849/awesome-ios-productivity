@@ -4,12 +4,16 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 
 > Prices and features change; confirm current details on the App Store. App names and trademarks belong to their respective owners.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Document Scanning & OCR](#document-scanning--ocr)
+- [Notes & Handwriting](#notes--handwriting)
 - [To-Do Lists & Checklists](#to-do-lists--checklists)
 - [Résumés & Job Applications](#résumés--job-applications)
 - [Voice Notes & Transcription](#voice-notes--transcription)
+- [Reading & Summaries](#reading--summaries)
 - [Focus & Screen Time](#focus--screen-time)
 - [Notes](#notes)
 - [Contributing](#contributing)
@@ -21,6 +25,11 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Adobe Scan](https://apps.apple.com/app/id1199564834) - Free with an Adobe account; premium OCR via subscription.
 - [Genius Scan](https://apps.apple.com/app/id377672876) - Well-regarded scanner; freemium.
 - [ScanTo Pro: Offline PDF & OCR](https://apps.apple.com/app/id6779977651) - Scan to **searchable** PDFs with on-device OCR, Face ID lock for private docs, fully **offline** — receipts, IDs, contracts, tax papers stay on your device, never a scanner company's cloud. **Pay-once**, no subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
+- [Mask My File](https://apps.apple.com/app/id6792850916) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them and keep the rest readable. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/maskmyfile.html)
+
+## Notes & Handwriting
+
+- [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio offline notebook for handwriting, typed notes, PDF markup and page-attached audio, built around the iPad. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/notesstudio100.html)
 
 ## To-Do Lists & Checklists
 
@@ -28,6 +37,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Things 3](https://apps.apple.com/app/id904237743) - Beautifully designed, **pay-once** GTD app (premium price).
 - [TickTick](https://apps.apple.com/app/id626144601) - Tasks plus calendar and habits; freemium.
 - [Mochi: Cute Checklist](https://apps.apple.com/app/id6785004775) - A friendly, low-pressure checklist and daily to-do app with an Apple Watch complication; **pay-once**, no ads, no subscription. Great when Todoist feels like overkill. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
+- [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) - Lumi Studio "when did I last…" tracker for chores and recurring household tasks like sheets, filters and backups. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochidonestamp.html)
 
 ## Résumés & Job Applications
 
@@ -39,6 +49,12 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Otter.ai](https://apps.apple.com/app/id1276437113) - Popular meeting transcription; cloud-based, subscription.
 - [Just Press Record](https://apps.apple.com/app/id1033342465) - Simple recorder with transcription; **pay-once**.
 - [Sono Note](https://apps.apple.com/app/id6782139553) - Record or import audio and transcribe it **on-device** — private, offline, with plain-text / Markdown export; **pay-once**, no subscription. Good for lectures, interviews and meetings you'd rather not send to a server. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
+
+## Reading & Summaries
+
+- [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later manager for saving links now and actually getting back to them later. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/savetag.html)
+- [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio tool that gathers screenshots, PDFs and notes into one organized brief before you hand context to an AI assistant. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
+- [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/onepageppt.html)
 
 ## Focus & Screen Time
 
