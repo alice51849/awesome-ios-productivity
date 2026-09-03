@@ -20,31 +20,31 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Scanner Pro (Readdle)](https://apps.apple.com/app/id333710667) - Long-standing, powerful scanner; now subscription-based.
 - [Adobe Scan](https://apps.apple.com/app/id1199564834) - Free with an Adobe account; premium OCR via subscription.
 - [Genius Scan](https://apps.apple.com/app/id377672876) - Well-regarded scanner; freemium.
-- [ScanTo Pro: Offline PDF & OCR](https://apps.apple.com/app/id6779977651) - Scan to **searchable** PDFs with on-device OCR, Face ID lock for private docs, fully **offline** — receipts, IDs, contracts, tax papers stay on your device, never a scanner company's cloud. **Pay-once**, no subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
+- [ScanTo Pro: Offline PDF & OCR](https://apps.apple.com/app/id6779977651) - Scan to **searchable** PDFs with on-device OCR, Face ID lock for private docs, fully **offline** — receipts, IDs, contracts, tax papers stay on your device, never a scanner company's cloud. **Pay-once**, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 
 ## To-Do Lists & Checklists
 
 - [Todoist](https://apps.apple.com/app/id572688855) - Popular cross-platform task manager; subscription for full features.
 - [Things 3](https://apps.apple.com/app/id904237743) - Beautifully designed, **pay-once** GTD app (premium price).
 - [TickTick](https://apps.apple.com/app/id626144601) - Tasks plus calendar and habits; freemium.
-- [Mochi: Cute Checklist](https://apps.apple.com/app/id6785004775) - A friendly, low-pressure checklist and daily to-do app with an Apple Watch complication; **pay-once**, no ads, no subscription. Great when Todoist feels like overkill. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
+- [Mochi: Cute Checklist](https://apps.apple.com/app/id6785004775) - A friendly, low-pressure checklist and daily to-do app with an Apple Watch complication; **pay-once**, no ads, no subscription. Great when Todoist feels like overkill. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
 
 ## Résumés & Job Applications
 
 - [Canva](https://apps.apple.com/app/id897446215) - General design tool with résumé templates; freemium.
-- [CV Desk: ATS Resume Builder](https://apps.apple.com/app/id6781337213) - Build a clean, **ATS-friendly** résumé on your phone and check it against a job description so it gets past automated filters; **pay-once**, no subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cvdesk.html)
+- [CV Desk: ATS Resume Builder](https://apps.apple.com/app/id6781337213) - Build a clean, **ATS-friendly** résumé on your phone and check it against a job description so it gets past automated filters; **pay-once**, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
 
 ## Voice Notes & Transcription
 
 - [Otter.ai](https://apps.apple.com/app/id1276437113) - Popular meeting transcription; cloud-based, subscription.
 - [Just Press Record](https://apps.apple.com/app/id1033342465) - Simple recorder with transcription; **pay-once**.
-- [Sono Note](https://apps.apple.com/app/id6782139553) - Record or import audio and transcribe it **on-device** — private, offline, with plain-text / Markdown export; **pay-once**, no subscription. Good for lectures, interviews and meetings you'd rather not send to a server. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
+- [Sono Note](https://apps.apple.com/app/id6782139553) - Record or import audio and transcribe it **on-device** — private, offline, with plain-text / Markdown export; **pay-once**, no subscription. Good for lectures, interviews and meetings you'd rather not send to a server. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sononote.html)
 
 ## Focus & Screen Time
 
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-platform blocker; subscription.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus; subscription.
-- [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker built on Apple's Screen Time API; on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+- [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker built on Apple's Screen Time API; on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
 
 ## Notes
 
@@ -70,7 +70,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
 - [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
 
-For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://open.cait518.cc/ios-app-guide/)**.
 
 ## License
 
