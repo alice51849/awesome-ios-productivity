@@ -33,6 +33,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 
 - [Canva](https://apps.apple.com/app/id897446215) - General design tool with résumé templates; freemium.
 - [CV Desk: ATS Resume Builder](https://apps.apple.com/app/id6781337213) - Build a clean, **ATS-friendly** résumé on your phone and check it against a job description so it gets past automated filters; **pay-once**, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
+- [ResumeAI](https://withresumeai.com/ats-checker) - Free ATS résumé checker (3/day anonymous, 10/day free account); [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) (738 employers, Workday 37.9%).
 
 ## Voice Notes & Transcription
 
