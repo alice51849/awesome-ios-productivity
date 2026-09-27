@@ -49,6 +49,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Otter.ai](https://apps.apple.com/app/id1276437113) - Popular meeting transcription; cloud-based, subscription.
 - [Just Press Record](https://apps.apple.com/app/id1033342465) - Simple recorder with transcription; **pay-once**.
 - [Sono Note](https://apps.apple.com/app/id6782139553) - Record or import audio and transcribe it **on-device** — private, offline, with plain-text / Markdown export; **pay-once**, no subscription. Good for lectures, interviews and meetings you'd rather not send to a server. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
+- [Studydown](https://apps.apple.com/app/id6807335593) - Lumi Studio app; Choose an activity, tap to start, then place your phone face down on a steady surface; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/studydown.html)
 
 ## Reading & Summaries
 
